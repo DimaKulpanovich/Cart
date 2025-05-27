@@ -22,12 +22,12 @@ function App() {
                         <StyledBtn
                             color={myTheme.colors.primary}
                             btnType={"primary"}>
-                            Hello
+                            See more
                         </StyledBtn>
                         <StyledBtn
                             color={myTheme.colors.primary}
                             btnType={"outlined"}>
-                            Hello
+                            Save
                         </StyledBtn>
                     </StyledBtnWrapper>
                 </StyledCart>
