@@ -7,7 +7,8 @@ export const StyledCart = styled.div`
   justify-content: flex-start;
   vertical-align: middle;
   gap: 20px;
-  width: 300px;
+  width: min-content;
+  min-width: 300px;
   height: fit-content;
   min-height: 350px;
   background-color: #fff;

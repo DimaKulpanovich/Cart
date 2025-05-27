@@ -8,6 +8,4 @@ export const StyledText = styled.h2`
   padding: 0 10px;
   font-weight: 500;
   font-size: 12px;
-  line-height: 20px;
-
 `
