@@ -6,6 +6,7 @@ export const StyledCart = styled.div`
   flex-wrap: wrap;
   justify-content: flex-start;
   vertical-align: middle;
+  align-content: space-between;
   gap: 20px;
   width: min-content;
   min-width: 300px;

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import {myTheme} from "../styles/Theme.styled.tsx";
 
-export const StyledText = styled.h2`
+export const StyledText = styled.p`
   color: ${myTheme.colors.text};
   width: 100%;
   text-align: left;
